@@ -15,6 +15,6 @@ public class SecurityTest {
                 .maximumSessions(2)
                 .expiredUrl("/expiredUrl")
         );
-                return http.build();
+        return http.build();
     }
 }
