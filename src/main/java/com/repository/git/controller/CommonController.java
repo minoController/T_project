@@ -12,6 +12,6 @@ public class CommonController {
     }
 
     public String test2() {
-        return "fix";
+        return "fixxxxx";
     }
 }
