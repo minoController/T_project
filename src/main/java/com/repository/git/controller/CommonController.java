@@ -8,6 +8,10 @@ public class CommonController {
 
     @PostMapping("/showComments")
     public void test() {
-        //nothing
+        test2();
+    }
+
+    public String test2() {
+        return "fix";
     }
 }
