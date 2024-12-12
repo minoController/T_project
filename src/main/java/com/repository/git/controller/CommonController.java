@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CommonController {
 
     @PostMapping("/showComments")
-    public String test() {
-        return "blahblah";
+    public void test() {
+        //nothing
     }
 }
