@@ -13,5 +13,11 @@ public class CommonController {
         // mino-git fix it
     }
 
-
+    public void test2() {
+        // main fix it
+        // main fix it 2
+        // main fix it 3
+        // main fix it 4
+        // main fix it 5
+    }
 }
