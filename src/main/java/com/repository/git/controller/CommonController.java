@@ -11,7 +11,7 @@ public class CommonController {
         test2();
     }
 
-    public String test2() {
-        return "fixssssssssssssssssssssssssssssssssssssssssssssssss";
+    public void test2() {
+        // main fix it
     }
 }
