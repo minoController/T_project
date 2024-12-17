@@ -8,7 +8,7 @@ public class CommonController {
 
     @PostMapping("/showComments")
     public void test() {
-        test2();
+        // miso_security fix it
     }
 
     public void test2() {
