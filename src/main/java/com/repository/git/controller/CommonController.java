@@ -8,10 +8,8 @@ public class CommonController {
 
     @PostMapping("/showComments")
     public void test() {
-        test2();
+        // miso_security fix it
     }
 
-    public String test2() {
-        return "fixssssssssssssssssssssssssssssssssssssssssssssssss";
-    }
+
 }
